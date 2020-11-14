@@ -24,6 +24,10 @@ a. CNN
 
 <img src='https://drive.google.com/uc?export=view&id=1Q6nufNIOscq_8iThXfeIdn5n2lFksjg8' alt="drawing" width="350"/>
 
+b. LSTM
+
+<img src='https://drive.google.com/uc?export=view&id=1LRjjSOkMmudf-V8I_o_GjnOrZ59aW-yK' alt="drawing" width="300"/>
+
 
 ## Bugs and future work:
 
