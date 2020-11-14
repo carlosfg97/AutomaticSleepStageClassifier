@@ -20,13 +20,13 @@ The whole pipeline of the project, from data extraction, to modeling, to output 
 
 * The notebook experiments with 2 versions of CNN and LSTM ensembles. The architecture of the best performing network is as follows:
 
-a. CNN
+a. _CNN_
 
-<img src='https://drive.google.com/uc?export=view&id=1Q6nufNIOscq_8iThXfeIdn5n2lFksjg8' alt="drawing" width="350"/>
+<img src='https://drive.google.com/uc?export=view&id=1Q6nufNIOscq_8iThXfeIdn5n2lFksjg8' alt="cnn" width="350"/>
 
-b. LSTM
+b. _LSTM_
 
-<img src='https://drive.google.com/uc?export=view&id=1LRjjSOkMmudf-V8I_o_GjnOrZ59aW-yK' alt="drawing" width="300"/>
+<img src='https://drive.google.com/uc?export=view&id=1LRjjSOkMmudf-V8I_o_GjnOrZ59aW-yK' alt="lstm" width="350"/>
 
 
 ## Bugs and future work:
